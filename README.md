@@ -6,6 +6,7 @@ This is a project where I could learn many professional techniques that is used 
 ## About the project
 
 - The **DevRadar** is an application where you can search for developers within 10km around you.
+- You register the developer in the frontend and you search him/her using the app.
 
 ## The frontend
 
