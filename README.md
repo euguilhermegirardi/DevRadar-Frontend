@@ -38,6 +38,8 @@ The frontend was developed with [**_ReactJS_**](https://reactjs.org/) using [**_
 
        npm run start
 
+5. **Note**: You have to run the [**_backend_**](https://github.com/euguilhermegirardi/DevRadar-Backend) to run this application.
+
 ## Contributing
 
 1.  Fork the project
